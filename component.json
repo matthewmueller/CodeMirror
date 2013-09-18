@@ -1,0 +1,12 @@
+{
+  "name" : "codemirror",
+  "repo" : "matthewmueller/codemirror",
+  "scripts" : [
+    "lib/codemirror.js",
+    "mode/javascript/javascript.js"
+  ],
+  "main" : "lib/codemirror.js",
+  "styles" : [
+    "lib/codemirror.css"
+  ]
+}
