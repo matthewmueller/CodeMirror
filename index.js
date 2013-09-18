@@ -9,4 +9,4 @@ var CodeMirror = module.exports = require('./lib/codemirror');
  */
 
 // Javascript
-require('./modes/javascript/javascript')(CodeMirror);
+require('./mode/javascript/javascript')(CodeMirror);
