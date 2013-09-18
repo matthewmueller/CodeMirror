@@ -2,10 +2,11 @@
   "name" : "codemirror",
   "repo" : "matthewmueller/codemirror",
   "scripts" : [
+    "index.js",
     "lib/codemirror.js",
     "mode/javascript/javascript.js"
   ],
-  "main" : "lib/codemirror.js",
+  "main" : "index.js",
   "styles" : [
     "lib/codemirror.css"
   ]
